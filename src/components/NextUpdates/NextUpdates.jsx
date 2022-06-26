@@ -10,7 +10,7 @@ function NextUpdates(props) {
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay:false,
-    speed: 1000,
+    speed: 400,
     autoplaySpeed: 3000,
     pauseOnHover:true,
     cssEase: "linear",
